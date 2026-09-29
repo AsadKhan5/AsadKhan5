@@ -1,11 +1,11 @@
-# Hi, I’m Asad Khan 👋
+# Hi, I’m Asad Khan
 
 I’m a full-stack developer who enjoys building clean, reliable web applications.  
 I mostly work with MERN, Vue, and Next.js, and I care a lot about code quality and user experience.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - Full Stack Developer with hands-on experience across frontend and backend
 - Comfortable working with JavaScript, React, Vue, Node.js, MongoDB, and PostgreSQL
 - I like turning ideas into real, usable products
@@ -13,7 +13,7 @@ I mostly work with MERN, Vue, and Next.js, and I care a lot about code quality a
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**  
 React.js, Next.js, Vue.js, Nuxt, Tailwind CSS, Shadcn UI
@@ -26,14 +26,14 @@ Git, GitHub, Vercel, Postman, JWT, Stripe (basic), Docker (learning), Integratio
 
 ---
 
-## 🚧 What I’m Working On
+## What I’m Working On
 - Improving project architecture and code structure
 - Building real-world apps with authentication and APIs
 - Learning performance optimization and best practices
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 **Job Portal App (Vue + API)**  
 https://github.com/AsadKhan5/vue-job-app
@@ -49,11 +49,11 @@ https://github.com/AsadKhan5/shadcn-ui-template
 
 ---
 
-## 📫 Get in Touch
-- 💼 LinkedIn: https://linkedin.com/in/asad-khan-877442258  
-- 🌐 Portfolio: https://heyasad.xyz  
-- 📧 Email: asadkhan58057@gmail.com
+## Get in Touch
+- LinkedIn: https://linkedin.com/in/asad-khan-877442258  
+- Portfolio: https://heyasad.xyz  
+- Email: asadkhan58057@gmail.com
 
 ---
 
-If you find something useful here, feel free to star the repository ⭐
+If you find something useful here, feel free to star the repository 
